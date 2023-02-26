@@ -6,8 +6,7 @@
 
 
 ## Access the project from your browser
-URL: https://cars-json.web.app/
-Hosted with Firebase.
+URL: https://cars-json.web.app/ - Hosted with Firebase.
 
 ## About this Project
 My first job totally done in flutter using a JSON to show data on screen.
