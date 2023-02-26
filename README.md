@@ -5,9 +5,12 @@
 </p>
 
 
+## Access the project from your browser
+URL: https://cars-json.web.app/ 
+Hosted with Firebase.
 
 ## About this Project
-My first job totally done in flutter using a JSON to show data on screen..
+My first job totally done in flutter using a JSON to show data on screen.
 
 ## The idea of the App is:
 Train the use of JSON, creating a dart file from the JSON, and the use of data between different screens.
