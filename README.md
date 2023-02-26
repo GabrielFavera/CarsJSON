@@ -1,16 +1,36 @@
-# cars_json
+# Cars-JSON
 
-A new Flutter project.
+<p float="left">
+ <img src="https://i.imgur.com/iEQbth5.png" width="350" height="690" />
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## About this Project
+My first job totally done in flutter using a JSON to show data on screen..
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## The idea of the App is:
+Train the use of JSON, creating a dart file from the JSON, and the use of data between different screens.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Why?
+With the need to leverage data across screens and consume it from a JSON file I learned a lot.
+
+Also, you can use this Project as you wish, be for study, be for make improvements or earn money with it!
+
+It's free!
+
+You can send how many codes do you want, I'll be glad to analyse them! And if you have any question about the project...
+
+Email-me: gabrielfavera@live.com
+
+Connect with me at LinkedIn
+
+https://www.linkedin.com/in/gabrielfavera/
+
+Website made in flutter
+
+https://gabriel-della-favera.web.app/
+
+Thank you!
+
+License This project is licensed under the MIT License - see the LICENSE.md file for details
