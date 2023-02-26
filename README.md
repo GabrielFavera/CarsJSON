@@ -6,7 +6,7 @@
 
 
 ## Access the project from your browser
-URL: https://cars-json.web.app/ \n
+URL: https://cars-json.web.app/
 Hosted with Firebase.
 
 ## About this Project
